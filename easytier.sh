@@ -145,7 +145,7 @@ CHECK() {
 INSTALL() {
   # Specify the fixed version you want to download
   VERSION="v2.0.3"
-  DOWNLOAD_URL="http://49.232.236.98:3988/easytier-linux-x86_64-${VERSION}.zip"
+  DOWNLOAD_URL="http://ip:3988/easytier-linux-x86_64-${VERSION}.zip"
 
   # Download
   echo -e "\r\n${GREEN_COLOR}Downloading EasyTier $VERSION ...${RES}"
