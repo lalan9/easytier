@@ -10,4 +10,4 @@ wget  "http://域名/easytier.sh" && chmod +x easytier.sh && ./easytier.sh
 
 
 
-wget  "http://域名/easytier-zh.sh" && chmod +x easytier-zh.sh && ./easytier-zh.sh
+wget  "https://raw.githubusercontent.com/lalan9/easytier/refs/heads/main/easytier-zh.sh" && chmod +x easytier-zh.sh && ./easytier-zh.sh
