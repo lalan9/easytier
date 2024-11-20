@@ -1,6 +1,6 @@
 卸载 
 
-wget  "http://域名/easytier-uninstall.sh" && chmod +x easytier-uninstall.sh && ./easytier-uninstall.sh
+wget  "https://raw.githubusercontent.com/lalan9/easytier/refs/heads/main/easytier-uninstall.sh" && chmod +x easytier-uninstall.sh && ./easytier-uninstall.sh
 
 安装
 
